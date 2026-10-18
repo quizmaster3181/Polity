@@ -1,5 +1,30 @@
 {
   "repo": "Polity",
-  "total_quizzes_with_images": 0,
-  "quizzes": []
+  "total_quizzes_with_images": 3,
+  "quizzes": [
+    {
+      "id": "19_oct_26_289524",
+      "short_id": "289524",
+      "chapter_file": "poli_quiz1_19_october_himalayan_passes.json",
+      "question": "Which Himalayan pass connects Srinagar with Leh?",
+      "image": "images/q_289524.jpg",
+      "image_url": "https://raw.githubusercontent.com/quizmaster3181/Polity/main/images/q_289524.jpg"
+    },
+    {
+      "id": "19_oct_26_652794",
+      "short_id": "652794",
+      "chapter_file": "poli_quiz1_19_october_himalayan_passes.json",
+      "question": "True or False: The Karakoram Pass lies between India and China (2-Option Test without padding).",
+      "image": "images/q_652794.jpg",
+      "image_url": "https://raw.githubusercontent.com/quizmaster3181/Polity/main/images/q_652794.jpg"
+    },
+    {
+      "id": "19_oct_26_456146",
+      "short_id": "456146",
+      "chapter_file": "poli_quiz1_19_october_himalayan_passes.json",
+      "question": "Select ALL passes located in Himachal Pradesh (6-Option Multi-Correct Test):",
+      "image": "images/q_456146.jpg",
+      "image_url": "https://raw.githubusercontent.com/quizmaster3181/Polity/main/images/q_456146.jpg"
+    }
+  ]
 }
