@@ -1,0 +1,8 @@
+[
+  {
+    "discarded_at_ist": "19 Oct 2026, 02:20:05 AM IST",
+    "source_chapter": "poli_quiz2_19_october.json",
+    "error_reason": "JSON Syntax Error: Expecting property name enclosed in double quotes: line 40 column 34 (char 1232)",
+    "raw_item": "{\n  \"new_chapter\": \"himalayan_passes\",\n  \"questions\": [\n    {\n      \"question\": \"Which Him"
+  }
+]
