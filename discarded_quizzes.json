@@ -4,5 +4,14 @@
     "source_chapter": "poli_quiz2_19_october.json",
     "error_reason": "JSON Syntax Error: Expecting property name enclosed in double quotes: line 40 column 34 (char 1232)",
     "raw_item": "{\n  \"new_chapter\": \"himalayan_passes\",\n  \"questions\": [\n    {\n      \"question\": \"Which Him"
+  },
+  {
+    "discarded_at_ist": "19 Oct 2026, 02:27:40 AM IST",
+    "source_chapter": "dump.json",
+    "error_reason": "JSON Syntax Error: Illegal trailing comma before end of array: line 12 column 56 (char 725)",
+    "raw_item": {
+      "__parse_error__": "Illegal trailing comma before end of array: line 12 column 56 (char 725)",
+      "__raw__": "{\n  \"dump_status\": \"EMPTY_READY_FOR_MOBILE_PASTE\",\n  \"last_harvested_ist\": \"Never\",\n  \"last_taken_count\": 0,\n  \"last_dup"
+    }
   }
 ]

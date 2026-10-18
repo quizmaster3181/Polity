@@ -1,59 +1,16 @@
 {
-  "dump_status": "EMPTY_READY_FOR_MOBILE_PASTE",
-  "last_harvested_ist": "Never",
+  "dump_status": "HARVESTED_AND_CLEARED",
+  "last_harvested_ist": "19 Oct 2026, 02:27:40 AM IST",
   "last_taken_count": 0,
   "last_duplicate_skipped_count": 0,
-  "last_discarded_count": 0,
-  "last_target_chapter": "None",
+  "last_discarded_count": 1,
+  "last_target_chapter": "None (0 duplicates skipped)",
   "HOW_TO_CHOOSE_CHAPTER_ON_MOBILE": "OPTION 1 (New Chapter): Type a name in 'new_chapter' below to create a new chapter. OPTION 2 (Append to Existing Chapter): Simply DELETE the chapter name you want from 'existing_chapters_delete_one_to_select' below! OPTION 3 (Default): Leave both untouched to save into Today's Chapter (19_oct_26_chapter.json).",
   "new_chapter": "",
   "existing_chapters_delete_one_to_select": [
+    "poli_quiz1_19_october_himalayan_passes.json",
     "poli_quiz3_19_october_himalyan.json",
-    "poli_quiz2_19_october_himalsadfsfayan_passes.json",
-    
+    "poli_quiz2_19_october_himalsadfsfayan_passes.json"
   ],
-  "questions": [{
-  "new_chapter": "himalayan_passes",
-  "questions": [
-    {
-      "question": "Which Himalsdfsdfsdfayan pwerwefass connsdfsects Srinagar with Leh?",
-      "options": [
-        "1. Nathu La",
-        "2. Zoji La",
-        "3. Rohtang Pass",
-        "4. Shipki La"
-      ],
-      "answer": "2",
-      "explanation": "Zoji La is a high mountain pass in the Himalayas connecting the Kashmir Valley to Ladakh.",
-      "difficulty_level": "Medium",
-      "exam_year": "UPSC 2022"
-    },
-    {
-      "question": "True or False: The Karakoram Pass lies between India and China (2-Option Test without padding).",
-      "options": [
-        "True",
-        "False"
-      ],
-      "answer": "1",
-      "explanation": "2-option quizzes pass validation directly without adding fake options!",
-      "difficulty_level": "Easy",
-      "exam_year": "2024"
-    },
-    {
-      "question": "Select ALL passes located in Himachal Pradesh (6-Option Multi-Correct Test):",
-      "options": [
-        "Rohtang Pass",
-        "Baralacha La",
-        "Shipki La",
-        "Nathu La",
-        "Jelep La",
-        "Bum La"
-      ],
-      "answer": "1,2,3",
-      "explanation": "Rohtang, Baralacha La, and Shipki La are in Himachal Pradesh.",
-      "difficulty_level": "Hard",
-      "exam_year": "UPSC 2025"
-    }
-  ]
-}]
+  "questions": []
 }
